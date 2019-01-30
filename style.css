@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+	width: 100%;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+	color: grey;
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+	color: grey;
+}
+
+.lyrics{
+	margin: auto;
+	width: 30%;
+}
+
+p {
+	color: grey;
+	text-transform: uppercase;
+	padding-bottom: 10px;
+	display: flex;
+}
